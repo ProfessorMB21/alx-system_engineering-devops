@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -unp *.html ./ ..
+cp --preserve=all -nu *.html ./ ..

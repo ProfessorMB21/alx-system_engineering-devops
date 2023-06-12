@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 5 ./iacta | tail -n 1 ./iacta
+head -n 9 ./iacta | tail -n 1

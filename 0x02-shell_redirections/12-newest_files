@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t . | cat
+ls -t . | head -n 10

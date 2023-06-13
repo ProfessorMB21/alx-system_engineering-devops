@@ -1,2 +1,2 @@
 #!/bin/bash
- set | tr ':' '\n' | grep -v '^*'
+ set | tr ':' '\n'

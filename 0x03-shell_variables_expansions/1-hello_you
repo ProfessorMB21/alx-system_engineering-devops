@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello $(id -un $UID)"
+echo "Hello $(whoami)"

@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(printenv) | tr ':' '\n'
+printenv | tr ':' '\n' | grep -v '^*'
